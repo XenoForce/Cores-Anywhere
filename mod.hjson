@@ -1,0 +1,14 @@
+name: "cores-anywhere"
+displayName: "Cores Anywhere"
+description: "Build new Cores anywhere you like."
+author: "Xeno"
+
+# The fully qualified main class of the mod.
+main: "mod.CoreStuffMod"
+
+version: "1.0.1"
+minGameVersion: "140"
+java: true
+
+dependencies: []
+hideBrowser: false
