@@ -1,3 +1,5 @@
 # Cores Anywhere
 
-This mod allows you to build new cores anywhere you like.
+This mod adds a new Core to the game, which can be built anywhere on the map.
+
+You can build many instances of this new Core on a map, if you want.
